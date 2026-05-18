@@ -1,68 +1,37 @@
-# [Project Title]
-> *One sentence. What did you analyze, build, or solve - and why does it matter?*
+📊 End-to-End Data Engineering with Microsoft Fabric
+
+Walk through of a dashboard project from requirements gathering to deployment and business impact.
 
 ---
 
-## ⚙️ Project Type Flags
-> *Check what applies. This helps reviewers and collaborators understand the nature of the work at a glance. Delete this block before publishing.*
+This project demonstrates how to build a full data engineering pipeline using **Microsoft Fabric**, including:
 
-- [ ] Exploratory Data Analysis (EDA)
-- [ ] SQL Analysis / Querying
-- [ ] Dashboard / Data Visualization
-- [ ] Data Pipeline / ETL
-- [ ] Predictive Modelling / Machine Learning
-- [ ] Data Cleaning / Wrangling
-- [ ] End-to-End (multiple of the above)
-- [ ] Other: ___________
+- Data ingestion via Lakehouse
+- Transformation using Dataflows Gen2 and Notebooks
+- Build Datawarehouse on top of Lakehouse 
+- Data modeling and visualization with Power BI
+
+🎥 **Full Video Walkthrough:**  
+[Watch on YouTube](add youtube link here)
 
 ---
 
-## Table of Contents
-1. [Project Overview](#1-project-overview)
-2. [Objectives](#2-objectives)
-3. [Project Scope & Tools](#3-project-scope--tools)
-4. [Repository Structure](#4-repository-structure)
-5. [Data Workflow](#5-data-workflow)
-6. [Data Model & Schema](#6-data-model--schema)
-7. [ERD - Entity Relationship Diagram](#7-erd--entity-relationship-diagram) *(SQL projects)*
-8. [Analysis & Metrics](#8-analysis--metrics)
-9. [Key Insights](#9-key-insights)
-10. [Recommendations](#10-recommendations)
-11. [Assumptions & Limitations](#11-assumptions--limitations)
-12. [Future Enhancements](#12-future-enhancements)
-13. [Deliverables](#13-deliverables)
-14. [Author](#14-author)
+## 🧰 Tools & Services
+
+- Microsoft Fabric (Preview)
+  - OneLake
+  - Lakehouse
+  - Dataflows Gen2
+  - Notebooks
+  - Power BI
 
 ---
 
-## 1. Project Overview
+##   <img width="32" height="34" alt="image" src="https://github.com/user-attachments/assets/ee2dca04-a364-4324-82c0-3b48be4ac456" />
+  Project Overview
 
-<!--
-  Write 3–5 sentences in plain language.
-  Cover: context → problem → approach → outcome.
-  Read it out loud. If it sounds like a form - rewrite it.
-
-  WHAT GOOD LOOKS LIKE:
-  "A mid-size retail business was seeing inconsistent revenue across
-  its regional stores but couldn't identify the root cause. This project
-  explored 18 months of transaction data across five regions to determine
-  whether underperformance was driven by sales volume, pricing, or return
-  rates. The analysis revealed that one region's gap was almost entirely
-  explained by an unusually high return rate on a single product category -
-  a finding invisible in the company's top-level reporting."
-
-  WHAT TO AVOID:
-  "This project analyzes sales data to find trends and insights."
-  (Too vague. Could describe 10,000 projects. Describes none of them.)
--->
-
-**Context:** [The business, research, or personal situation that motivated this project.]
-
-**Problem Statement:** [The specific question or challenge you were addressing.]
-
-**Approach:** [In 1–2 sentences - how did you tackle it?]
-
-**Outcome:** [What did you produce or discover?]
+  A mid-sized retail business, “OneStopShop”,  is experiencing significant competition. They need deeper insights into customer behaviors, sales trend, inventory management, online engagement, and product sentiment to strategically boost revenues and enhance customer satisfaction.
+<img width="3759" height="62" alt="image" src="https://github.com/user-attachments/assets/28868742-b30d-4172-a094-7baf6e4a6b56" />
 
 ---
 
