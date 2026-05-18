@@ -1,4 +1,4 @@
-📊 End-to-End Data Engineering with Microsoft Fabric
+# 📊 End-to-End Data Engineering with Microsoft Fabric
 
 Walk through of a dashboard project from requirements gathering to deployment and business impact.
 
