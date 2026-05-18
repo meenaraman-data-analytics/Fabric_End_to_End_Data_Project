@@ -3,7 +3,7 @@
 Walk through of a dashboard project from requirements gathering to deployment and business impact.
 <img width="1601" height="351" alt="image" src="https://github.com/user-attachments/assets/9eeda6c2-0f83-413f-a651-af6b34599b36" />
 
-**Fabric Sample Data sourced from Microsoft  
+Fabric Sample Data sourced from Microsoft  
 ---
 
 This project demonstrates how to build a full data engineering pipeline using **Microsoft Fabric**, including:
