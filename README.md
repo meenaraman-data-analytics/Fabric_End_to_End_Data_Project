@@ -30,7 +30,7 @@ This project demonstrates how to build a full data engineering pipeline using **
 
 ## <img width="32" height="34" alt="image" src="https://github.com/user-attachments/assets/ee2dca04-a364-4324-82c0-3b48be4ac456" /> Project Overview
 
-  A mid-sized retail business, “OneStopShop”,  is experiencing significant competition. They need deeper insights into customer behaviors, sales trend, inventory    management, online engagement, and product sentiment to strategically boost revenues and enhance customer satisfaction.
+  A mid-sized retail business, “OneStopShop”,  is experiencing significant competition. They need deeper insights into customer behavior, sales trend, inventory    management, online engagement, and product sentiment to strategically boost revenue and enhance customer satisfaction.
 
 ---
 
