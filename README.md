@@ -45,6 +45,22 @@ This will allow the leadership team to monitor business performance, identify op
 
 ---
 
+## Data Source
+
+Data files downloaded from Microsoft Learn AdventureWorks Sample dataset.
+
+**Structured Data -**
+products.csv
+customers.csv
+Orders_Data.csv
+
+**Unstructured Data -**
+web_logs.json
+social_media.json
+reviews.json
+
+---
+
 ## Data Workflow
 
 <!--
