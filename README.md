@@ -55,23 +55,6 @@ Data files downloaded from Microsoft Learn AdventureWorks Sample dataset.
 | `customers.csv` | `social_media.json` |
 | `Orders_Data.csv` | `reviews.json` |
 
-
-**Structured Data -**
-
-products.csv
-
-customers.csv
-
-Orders_Data.csv
-
-**Unstructured Data -**
-
-web_logs.json
-
-social_media.json
-
-reviews.json
-
 ---
 
 ## Data Workflow
