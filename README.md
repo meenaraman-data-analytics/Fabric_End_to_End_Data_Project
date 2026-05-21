@@ -49,12 +49,11 @@ This will allow the leadership team to monitor business performance, identify op
 
 Data files downloaded from Microsoft Learn AdventureWorks Sample dataset.
 
-
 | Structured Data | Unstructured Data |
 |------------|-----------|
-| `products.csv` | [web_logs.json] |
-| `customers.csv` | [social_media.json] |
-| `Orders_Data.csv` | [reviews.json] |
+| `products.csv` | `web_logs.json` |
+| `customers.csv` | `social_media.json` |
+| `Orders_Data.csv` | `reviews.json` |
 
 
 **Structured Data -**
