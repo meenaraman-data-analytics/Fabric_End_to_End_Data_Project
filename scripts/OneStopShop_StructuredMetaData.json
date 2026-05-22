@@ -1,18 +1,18 @@
 [
     {
         "source_url" : "blob/main/data/bronze_layer_raw/StructuredData/Orders.csv",
-        "sync_folder" : "Files/onestopshop-metadata/StructuredData",
+        "sync_folder" : "OneStopShopMetaDataSrc_Bronze",
         "sync_file" : "OneStopShop_Orders.csv"
     },
     {
          "source_url" : "blob/main/data/bronze_layer_raw/StructuredData/Customers.csv",
-        "sync_folder" : "Files/onestopshop-metadata/StructuredData",
+        "sync_folder" : "OneStopShopMetaDataSrc_Bronze",
         "sync_file" : "OneStopShop_Customers.csv"
 
     },
     {
         "source_url" : "blob/main/data/bronze_layer_raw/StructuredData/Products.csv",
-        "sync_folder" : "Files/onestopshop-metadata/StructuredData",
+        "sync_folder" : "OneStopShopMetaDataSrc_Bronze",
         "sync_file" : "OneStopShop_Products.csv"
 
     }
