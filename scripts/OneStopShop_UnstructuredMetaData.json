@@ -1,17 +1,17 @@
 [
     {
-        "source_url" : "refs/heads/main/ShoppingMart_UnstructuredData/Reviews.json",
+        "source_url" : "blob/main/data/bronze_layer_raw/UnstructuredData/Reviews.json",
         "sink_folder" : "OneStopShop_Bronze_Reviews",
         "sink_file" : "OneStopShop_Review.json"
     },
     {
-         "source_url" : "refs/heads/main/ShoppingMart_UnstructuredData/Social_Media.json",
+         "source_url" : "blob/main/data/bronze_layer_raw/UnstructuredData/Social_Media.json",
         "sink_folder" : "OneStopShop_Bronze_Social_Media",
         "sink_file" : "OneStopShop_Social_Media.json"
 
     },
     {
-        "source_url" : "refs/heads/main/ShoppingMart_UnstructuredData/Web_Logs.json",
+        "source_url" : "blob/main/data/bronze_layer_raw/UnstructuredData/Web_Logs.json",
         "sink_folder" : "OneStopShop_Bronze_Web_Logs",
         "sink_file" : "OneStopShop_Web_Logs.json"
 
