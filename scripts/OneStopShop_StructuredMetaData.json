@@ -1,19 +1,19 @@
 [
     {
-        "source_url" : "refs/heads/main/ShoppingMart_StructuredData/Orders_Data.csv",
-        "sink_folder" : "ShoppingMart_Bronze_Orders",
-        "sink_file" : "ShoppingMart_orders.csv"
+        "source_url" : "blob/main/data/bronze_layer_raw/StructuredData/Orders.csv",
+        "sink_folder" : "OneStopShop_Orders_Bronze_",
+        "sink_file" : "OneStopShop_Orders.csv"
     },
     {
-         "source_url" : "refs/heads/main/ShoppingMart_StructuredData/customers.csv",
-        "sink_folder" : "ShoppingMart_Bronze_Customers",
-        "sink_file" : "ShoppingMart_customers.csv"
+         "source_url" : "blob/main/data/bronze_layer_raw/StructuredData/Customers.csv",
+        "sink_folder" : "OneStopShop_Customers_Bronze",
+        "sink_file" : "OneStopShop_Customers.csv"
 
     },
     {
-        "source_url" : "refs/heads/main/ShoppingMart_StructuredData/products.csv",
-        "sink_folder" : "ShoppingMart_Bronze_Products",
-        "sink_file" : "ShoppingMart_products.csv"
+        "source_url" : "blob/main/data/bronze_layer_raw/StructuredData/Products.csv",
+        "sink_folder" : "OneStopShop_Products_Bronze",
+        "sink_file" : "OneStopShop_Products.csv"
 
     }
 ]
